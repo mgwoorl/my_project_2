@@ -1,3 +1,6 @@
+import numpy
+import math
+
 class Vector:
     __s = 4
     def __init__(self, x = 0, y = 0):
