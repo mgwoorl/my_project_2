@@ -5,3 +5,9 @@
 3. Суммирования векторов
 4. Вычитания векторов
 5. Скалярного произведения векторов
+
+# Варианты установки
+1. git clone URL
+   cd my_project
+   python setup.py
+2. pip install -e git+URL 
