@@ -7,7 +7,7 @@
 5. Скалярного произведения векторов
 
 # Варианты установки
-1. git clone URL
-   cd my_project
+1. git clone https://github.com/mgwoorl/my_project_2.git
+   cd my_project_2
    python setup.py
 2. pip install -e git+URL 
