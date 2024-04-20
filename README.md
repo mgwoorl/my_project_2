@@ -8,8 +8,8 @@
 
 # Варианты установки
 ### 1 вариант:
-   1. git clone https://github.com/mgwoorl/my_project_2.git
-   2. cd my_project_2
-   3. python setup.py
+   1. В консоли выполнить команду ``git clone https://github.com/mgwoorl/my_project_2.git``
+   2. Затем перейти в папку проекта командой ``cd my_project_2``
+   3. Установить командой ``python setup.py``
 ### 2 вариант: 
-   1. pip install -e git+URL 
+   1. Выполнить в консоли команду ``pip install git+https://github.com/mgwoorl/my_project_2.git#egg=my_project_2`` 
