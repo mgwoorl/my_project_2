@@ -1,5 +1,5 @@
 import pytest
-from code.func import Vector
+from src.func import Vector
 
 class TestVector:
     def test_length(self):
